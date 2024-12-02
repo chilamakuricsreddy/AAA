@@ -1,0 +1,8 @@
+name: "TEST"
+navbar:
+  title: "Chilamakuri's website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
